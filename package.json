@@ -1,0 +1,9 @@
+{
+  "name": "nml-js",
+  "version": "0.0.0",
+  "description": "NML parser and converter.",
+  "main": "index.js",
+  "repository": "git@github.com:WriterLighter/nml-js.git",
+  "author": "Yugo Yagita <2000ygkn0713@gmail.com>",
+  "license": "MIT"
+}
